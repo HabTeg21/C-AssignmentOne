@@ -1,0 +1,13 @@
+F:\Antra\WebApps\Demo\DemoTask\bin\Debug\netcoreapp3.1\DemoTask.exe
+F:\Antra\WebApps\Demo\DemoTask\bin\Debug\netcoreapp3.1\DemoTask.deps.json
+F:\Antra\WebApps\Demo\DemoTask\bin\Debug\netcoreapp3.1\DemoTask.runtimeconfig.json
+F:\Antra\WebApps\Demo\DemoTask\bin\Debug\netcoreapp3.1\DemoTask.runtimeconfig.dev.json
+F:\Antra\WebApps\Demo\DemoTask\bin\Debug\netcoreapp3.1\DemoTask.dll
+F:\Antra\WebApps\Demo\DemoTask\bin\Debug\netcoreapp3.1\DemoTask.pdb
+F:\Antra\WebApps\Demo\DemoTask\obj\Debug\netcoreapp3.1\DemoTask.csprojAssemblyReference.cache
+F:\Antra\WebApps\Demo\DemoTask\obj\Debug\netcoreapp3.1\DemoTask.AssemblyInfoInputs.cache
+F:\Antra\WebApps\Demo\DemoTask\obj\Debug\netcoreapp3.1\DemoTask.AssemblyInfo.cs
+F:\Antra\WebApps\Demo\DemoTask\obj\Debug\netcoreapp3.1\DemoTask.csproj.CoreCompileInputs.cache
+F:\Antra\WebApps\Demo\DemoTask\obj\Debug\netcoreapp3.1\DemoTask.dll
+F:\Antra\WebApps\Demo\DemoTask\obj\Debug\netcoreapp3.1\DemoTask.pdb
+F:\Antra\WebApps\Demo\DemoTask\obj\Debug\netcoreapp3.1\DemoTask.genruntimeconfig.cache

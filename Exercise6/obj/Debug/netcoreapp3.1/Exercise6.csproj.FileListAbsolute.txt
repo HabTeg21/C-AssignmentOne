@@ -1,0 +1,12 @@
+F:\Antra\WebApps\Demo\Exercise6\bin\Debug\netcoreapp3.1\Exercise6.exe
+F:\Antra\WebApps\Demo\Exercise6\bin\Debug\netcoreapp3.1\Exercise6.deps.json
+F:\Antra\WebApps\Demo\Exercise6\bin\Debug\netcoreapp3.1\Exercise6.runtimeconfig.json
+F:\Antra\WebApps\Demo\Exercise6\bin\Debug\netcoreapp3.1\Exercise6.runtimeconfig.dev.json
+F:\Antra\WebApps\Demo\Exercise6\bin\Debug\netcoreapp3.1\Exercise6.dll
+F:\Antra\WebApps\Demo\Exercise6\bin\Debug\netcoreapp3.1\Exercise6.pdb
+F:\Antra\WebApps\Demo\Exercise6\obj\Debug\netcoreapp3.1\Exercise6.AssemblyInfoInputs.cache
+F:\Antra\WebApps\Demo\Exercise6\obj\Debug\netcoreapp3.1\Exercise6.AssemblyInfo.cs
+F:\Antra\WebApps\Demo\Exercise6\obj\Debug\netcoreapp3.1\Exercise6.csproj.CoreCompileInputs.cache
+F:\Antra\WebApps\Demo\Exercise6\obj\Debug\netcoreapp3.1\Exercise6.dll
+F:\Antra\WebApps\Demo\Exercise6\obj\Debug\netcoreapp3.1\Exercise6.pdb
+F:\Antra\WebApps\Demo\Exercise6\obj\Debug\netcoreapp3.1\Exercise6.genruntimeconfig.cache
